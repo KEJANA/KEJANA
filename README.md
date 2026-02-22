@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kejana V</h1>
-<h3 align="center">Artificial Intelligence & Data Science Engineer | Machine Learning Developer</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KEJANA&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+Artificial Intelligence & Data Science Engineer | Machine Learning Developer</h3>
 
 <p align="center">
 🚀 Building Intelligent Predictive Systems using Machine Learning & Data Science
@@ -78,6 +81,11 @@ All projects are deployed as interactive Streamlit apps where users can input da
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KEJANA&theme=github_dark" />
 </p>
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KEJANA&theme=github-dark" />
+</p>
 
 ## 💻 Top Languages Used
 
@@ -99,5 +107,5 @@ All projects are deployed as interactive Streamlit apps where users can input da
 ---
 
 <p align="center">
-✨ Transforming Data into Intelligent Decisions ✨
+ ✨ Transforming Data into Intelligent AI Solutions ✨ 
 </p>

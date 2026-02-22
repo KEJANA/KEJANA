@@ -81,12 +81,17 @@ All projects are deployed as interactive Streamlit apps where users can input da
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KEJANA&theme=github_dark" />
 </p>
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KEJANA&theme=github-dark" />
+</p>
 ## 💻 Top Languages Used
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KEJANA&theme=github_dark" />
 </p>
-
 ## 🏆 Achievements
 🏅 Smart India Hackathon Participant  
 🚀 Built & Deployed 15+ Machine Learning Prediction Applications  

@@ -73,7 +73,6 @@ All projects are deployed as interactive Streamlit apps where users can input da
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <p align="center">

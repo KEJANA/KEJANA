@@ -74,13 +74,15 @@ All projects are deployed as interactive Streamlit apps where users can input da
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=kejana&show_icons=true&theme=tokyonight&v=1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KEJANA&theme=github_dark" />
 </p>
 
 ## 💻 Top Languages Used
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kejana&layout=compact&theme=tokyonight&v=1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KEJANA&theme=github_dark" />
 </p>
 
 ## 🏆 Achievements

@@ -27,6 +27,15 @@
 </p>
 
 ---
+### 🛠️ Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-black?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data-Science-0A66C2?style=for-the-badge)
 
 # 🚀 Machine Learning Project Portfolio
 
@@ -64,11 +73,14 @@ All projects are deployed as interactive Streamlit apps where users can input da
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KEJANA&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KEJANA&theme=tokyonight"/>
-</p>
+
+## 📊 GitHub Stats
+
+![Keja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KEJANA&show_icons=true&theme=radical)
+
+## 💻 Top Languages Used
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KEJANA&layout=compact&theme=radical)
 
 ---
 
